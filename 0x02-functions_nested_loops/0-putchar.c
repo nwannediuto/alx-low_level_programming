@@ -3,8 +3,8 @@
 
 /**
  * main - Entry point
- * description: write a program that prints "_putchar" followed by a new line.
- * return: always 0 (success)
+ * Description: write a program that prints "_putchar" followed by a new line.
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -17,6 +17,6 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-	
-	return (0)
+
+	return (0);
 }
